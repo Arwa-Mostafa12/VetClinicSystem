@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <color android:name="primaryPurple" tools:ignore="ExtraText">#755BB4</color>
+    <color android:name="lightPurple">#EDDCFF</color>
+    <color android:name="lightgrey">#d3d3d3</color>
+</selector>
